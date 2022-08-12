@@ -1,0 +1,40 @@
+.div-pricipal{
+    width: 100%;
+    height: 100%;
+    background-color:#13315C;
+    padding: 2rem;
+}
+
+.cabecalho{
+    color: #13315C;
+    background-color: white;
+}
+
+.patient-name{    
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+#tabelaDeInformacoes{
+    background-color: #ffffffef;
+    font-weight:600;
+    font-size: 14px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#financeIN{
+    color: white;
+    font-weight: bolder;
+    background-color: rgb(15, 145, 73);
+}
+#financeOUT{
+    color: white;
+    font-weight: bolder;
+    background-color: rgb(124, 32, 32);
+}
+#financeBalance{
+    color: white;
+    font-weight: bolder;
+    background-color: rgb(38, 132, 145);
+}
